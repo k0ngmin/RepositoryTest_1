@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QTViewer", "QTViewer\QTViewer.vcxproj", "{1C8F020B-5F47-42C7-8FB4-8C06917F1485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C8F020B-5F47-42C7-8FB4-8C06917F1485}.Debug|x64.ActiveCfg = Debug|x64
+		{1C8F020B-5F47-42C7-8FB4-8C06917F1485}.Debug|x64.Build.0 = Debug|x64
+		{1C8F020B-5F47-42C7-8FB4-8C06917F1485}.Release|x64.ActiveCfg = Release|x64
+		{1C8F020B-5F47-42C7-8FB4-8C06917F1485}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52590FB5-50B4-446D-8B26-2D74657EE618}
+	EndGlobalSection
+EndGlobal
